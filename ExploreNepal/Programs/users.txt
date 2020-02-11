@@ -1,0 +1,27 @@
+
+
+admin
+
+    email: admin@en.com
+    password: admin
+
+
+tourist(s)
+
+    email: ucantseeme@cena.com  
+    password: cena
+
+    email: testtourist@tour.com  
+    password: tour
+
+
+service provider(s)
+    
+    email: testServiceProvider@hotel.com
+    password: test
+
+    email: red235@gmail.com
+    password: pkmn
+
+    email: happu9955@gmail.com
+    password: happu
